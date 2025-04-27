@@ -23,4 +23,4 @@ All components communicate exclusively over the local Wi-Fi network — no inter
 
 ## 📈 System Overview Diagram
 
-(Click the image above or view the live diagram [here](diagram.png))
+(Click the image above or view the live diagram [here](sensors/diagram.png))
