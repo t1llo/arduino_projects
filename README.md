@@ -1,7 +1,5 @@
 # 🐔 Chicken House Monitoring System
 
-![System Diagram](https://example.com/your-diagram.png)
-
 A local-network-based detection and monitoring system for chicken houses.  
 It combines computer vision, sensor data, and a digital dashboard for real-time insights — all running securely offline.
 
@@ -23,4 +21,5 @@ All components communicate exclusively over the local Wi-Fi network — no inter
 
 ## 📈 System Overview Diagram
 
-(Click the image above or view the live diagram [here](sensors/diagram.png))
+// i want a image here od the diagram
+![System Overview Diagram](sensors/diagram.png)
